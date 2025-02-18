@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@firebasegen/default-connector": "file:dataconnect-generated/js/default-connector",
-    "@octokit/rest": "^20.0.2",
+    "@octokit/rest": "^21.1.1",
     "@supabase/supabase-js": "^2.48.1",
     "axios": "^1.6.7",
     "date-fns": "^3.3.1",
